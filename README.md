@@ -1,0 +1,1 @@
+Refer to adjoe documentation for integration steps: https://docs.adjoe.io/developer_documentation/for-supply-partners/tech-integration
