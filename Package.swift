@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AdjoeWaveSDK",
-            url: "https://d2rv4xu1hi9oif.cloudfront.net/files/ios/1.8.0-beta.2/AdjoeWaveSDK.zip",
-            checksum: "1d20c25ae4c592991cba825e36cab337b9e810179552d4e662a5b6ed3a536f2e"
+            url: "https://releases.adjoe.io/wave/ios/1.8.0/AdjoeWaveSDK.zip",
+            checksum: "28e7e8a047d7f37fe6ca6ea6ef2d3387a3ae7f73973cae10d077555c05041a5c"
         )
     ]
 )
